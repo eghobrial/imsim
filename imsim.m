@@ -14,7 +14,7 @@
 %           Introduction to Functional Magnetic Resonance Imaging
 %           Principles & Techniques, Richard B. Buxton
 %           
-
+% 	Stable version 2.0 checked into GIT
 function ud = imsim(action, varargin)
 %imsim 
 
