@@ -11,3 +11,7 @@ The program was developed using Matlab (The Mathworks, Natick, MA), the data set
 
 Getting Started
 To start the program, type imsim at the Matlab prompt.
+
+imsim website:
+http://learnfmri.ucsd.edu/howto/imagesim.html
+
